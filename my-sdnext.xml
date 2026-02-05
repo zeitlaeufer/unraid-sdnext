@@ -11,7 +11,7 @@
   <Project/>
   <Overview/>
   <Category/>
-  <WebUI>http://192.168.178.30:7860</WebUI>
+  <WebUI>http://[IP]:[PORT:7860]</WebUI>
   <TemplateURL/>
   <Icon>/mnt/user/system/docker/icons/sdnext.png</Icon>
   <ExtraParams>--gpus all</ExtraParams>
